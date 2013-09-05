@@ -1,1 +1,15 @@
-{"license": "", "description": "Learn to know your coworkers.", "contributors": [], "author": "tillkahlbrock", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "initial.rev66", "lib": "lib", "fullName": "Jimdo Faceory", "main": "main", "id": "jid0-PpqHNoLz9qsAcMOBATBmAzxB5yk", "name": "jimdo-faceory"}
+{ "author" : "tillkahlbrock",
+  "contributors" : [  ],
+  "dependencies" : [ "api-utils",
+      "addon-kit"
+    ],
+  "description" : "Learn to know your coworkers.",
+  "fullName" : "Jimdo Faceory",
+  "id" : "jid0-PpqHNoLz9qsAcMOBATBmAzxB5yk",
+  "lib" : "lib",
+  "license" : "",
+  "main" : "main",
+  "name" : "jimdo-faceory",
+  "url" : "",
+  "version" : "initial.rev66"
+}
