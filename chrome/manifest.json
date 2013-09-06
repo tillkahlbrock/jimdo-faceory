@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Jimdo-Faceory",
+  "description": "Remember the faces of your coworkers",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": ["http://de.jimdo.com/%C3%BCber-jimdo/jimdo-team*"],
+      "js": ["data/jquery-2.0.3.min.js", "data/team-flip.js"]
+    }
+  ]
+}
