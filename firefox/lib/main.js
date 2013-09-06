@@ -10,7 +10,7 @@ widget.Widget({
 });
  
 pageMod.PageMod({
-    include: "http://de.jimdo.com/%C3%BCber-jimdo/jimdo-team/",
+    include: "http://de.jimdo.com/%C3%BCber-jimdo/jimdo-team*",
     contentScriptFile:  [data.url("jquery-2.0.3.min.js"), data.url("team-flip.js")],
     onAttach: function(worker) {
         worker.port.emit("start", tag);
