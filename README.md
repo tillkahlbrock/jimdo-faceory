@@ -8,4 +8,4 @@ Install the plugin and visit the [Jimdo-Team page](http://de.jimdo.com/%C3%BCber
 Download
 --------
 
- * [Firefox Plugin](firefox/bin/jimdo-faceory.xpi)
+ * Checkout the [releases](https://github.com/tillkahlbrock/jimdo-faceory/releases)
